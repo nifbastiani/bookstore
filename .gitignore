@@ -1,0 +1,15 @@
+# Compilação e binários do Java
+*.class
+bin/
+out/
+target/
+
+# Arquivos específicos do VSCode / IDEs
+.vscode/
+.idea/
+*.iml
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
+*~
